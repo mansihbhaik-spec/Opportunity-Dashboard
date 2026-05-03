@@ -29,3 +29,6 @@ DAX (calculated measures and KPIs)
 
 🎯 Purpose
 To help teams monitor sales performance, analyze the pipeline, and make better business decisions.
+
+screenshort dashboard
+   https://github.com/mansihbhaik-spec/Opportunity-Dashboard/blob/main/Screenshot%20Dashboard.png
